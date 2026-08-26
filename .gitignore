@@ -1,0 +1,9 @@
+*.out
+*.o
+*.exe
+*.dSYM
+*.dSYM/
+
+tempCodeRunnerFile
+.idea/
+.vscode/
