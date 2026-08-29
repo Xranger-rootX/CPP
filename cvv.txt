@@ -1,0 +1,93 @@
+Best & Efficient Software Stack for MacBook M4 Air
+Screen Recording • Video Editing • Thumbnails • Voiceover
+(for project walkthroughs & uni reports)
+
+All tools below are Apple Silicon native — fast and battery-friendly.
+
+=====================================================
+🎥 SCREEN RECORDING
+=====================================================
+Best pick: OBS Studio (free)
+- Apple Silicon native, unlimited recording
+- Scenes/camera overlays for project walkthroughs
+- macOS built-in recorder (Cmd + Shift + 5) is a zero-setup
+  alternative, great for quick uni report captures, but no
+  camera overlay or scene switching.
+
+Settings tip: Record at 1080p or 4K, 30fps is fine for
+tutorials (60fps only if showing fast motion/games).
+
+=====================================================
+✂️ VIDEO EDITING
+=====================================================
+Best pick: DaVinci Resolve (free)
+- Apple Silicon native, uses the M4's media engine
+- Hollywood-grade; the free version has everything you need
+Alternative: iMovie (free, pre-installed)
+- Fine for simple uni reports with minimal editing,
+  but you'll outgrow it fast.
+
+M4 Air note: Resolve runs well, but for very long 4K edits
+consider exporting at 1080p to keep the fanless Air cool.
+
+=====================================================
+🖼️ THUMBNAILS
+=====================================================
+Best pick: Canva (free tier)
+- Templates, drag-and-drop, exports YouTube-ready 1280x720
+Alternative: Photopea (free, browser-based)
+- Essentially free Photoshop in a browser; better if you
+  want pixel-level control.
+
+=====================================================
+🎙️ VOICEOVER
+=====================================================
+Best pick: MacBook's built-in mic + free tools to start.
+The M4 Air's mics are surprisingly decent. Two free apps
+make a big difference:
+- Audacity (free) — record + noise reduction + EQ
+- Adobe Podcast Enhance (free, browser) — paste your audio,
+  AI cleans background noise instantly.
+
+Cheap upgrade that beats any software: a $20-50 USB lav
+mic or dynamic mic (e.g., Fifine or Samson Q2U).
+
+If you want an AI voice instead: ElevenLabs (best quality,
+~$5/mo) — but disclose it in the description.
+
+=====================================================
+🏆 MINIMAL EFFICIENT STACK (recommendation)
+=====================================================
+Task         | Tool                          | Cost
+-------------|-------------------------------|-------
+Record       | OBS Studio                    | Free
+Edit         | DaVinci Resolve               | Free
+Thumbnails   | Canva                         | Free
+Voiceover    | Audacity + Adobe Enhance      | Free
+Total        |                               | $0
+
+=====================================================
+⚙️ QUICK SETUP TIPS FOR M4 AIR
+=====================================================
+1. External SSD or >=512GB storage — video files eat space
+   fast (~1GB per 10 min at 1080p).
+2. OBS: Settings -> Output -> use Apple silicon hardware
+   encoder (VideoToolbox) — smooth recording without
+   taxing the CPU.
+3. DaVinci Resolve: enable "Optimized Media" or record in
+   ProRes for smoother editing timelines.
+4. Record in a quiet room; a blanket on the wall behind you
+   = instantly better audio.
+
+=====================================================
+🚀 FIRST-VIDEO WORKFLOW (record -> upload)
+=====================================================
+1. Pick a searchable topic (YouTube autocomplete /
+   Google Trends).
+2. Write a bullet outline — don't script word-for-word.
+3. Record screen + voiceover in OBS (one take is fine).
+4. Edit in Resolve: cut dead air, zoom on key moments,
+   add captions.
+5. Make thumbnail in Canva: 3-5 words, high contrast.
+6. Upload with keyword-rich title/description, pin a
+   comment. Done beats perfect.
